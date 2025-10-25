@@ -7,6 +7,9 @@
 3️⃣ 视频下载的粘贴并提取功能，仅需两步操作即可下载相关视频，点击还可直接播放相关视频，高效便捷！
 
 欢迎体验！#电商干货 #视频剪辑教程 #直播录屏分享 #直播录屏 #自媒体干货
+
 支持 Windows Mac
+
 官网：https://www.hzsozo.com
+
 下载地址：https://pan.baidu.com/s/1Ork214MZbfP_-UPnNMJ1ug?pwd=6666#list/path=%2F%E7%9B%B4%E6%92%AD%E5%BD%95%E5%B1%8F
