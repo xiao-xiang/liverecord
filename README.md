@@ -12,6 +12,8 @@
 
 官网：https://www.hzsozo.com
 
+GitHub下载链接：https://github.com/xiao-xiang/liverecord/releases
+
 下载地址：https://pan.baidu.com/s/1Ork214MZbfP_-UPnNMJ1ug?pwd=6666#list/path=%2F%E7%9B%B4%E6%92%AD%E5%BD%95%E5%B1%8F
 
 ![截图](a.jpg)
