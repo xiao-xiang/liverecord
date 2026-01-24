@@ -10,7 +10,7 @@
 
 支持 Windows Mac
 
-官网：https://www.hzsozo.com
+官网：https://www.soyue.top
 
 GitHub下载链接：https://github.com/xiao-xiang/liverecord/releases    windows7  Mac版本可直接去下面的百度网盘中获取
 
